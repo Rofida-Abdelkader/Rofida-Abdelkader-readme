@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>💻 Software Engineer | 🎨 UI/UX Designer | 🚀 Problem Solver</h2>
+  <h2>💻 Software Engineer | 🚀 Problem Solver</h2>
 </div>
 
 <!-- <div align="center">
@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** specializing in front-end development and UI/UX design. I love creating intuitive, user-friendly applications that solve real-world problems.
+I'm a passionate **Software Engineer** specializing in Frontend development and focused in Backend.
 
 - 🎓 **Education**: Graduate from Faculty of Computers & Information, Minia University (2024).
-- 💻 **Focus**: Front-End Development, UI/UX Design.
+- 💻 **Focus**: Frontend Development, Backend Development.
 - 🌱 **Currently Learning**: Advanced React patterns, TypeScript, and modern web technologies.
 - 🎯 **Goal**: Building impactful web applications that enhance user experiences.
 - 📫 **Reach me at**: rofidaabdelkader91@gmail.com, rofidaabdelkader132001@gmail.com
@@ -47,7 +47,7 @@ I'm a passionate **Software Engineer** specializing in front-end development and
 <div align="center">
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,typescript,react" />
 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=java,cs,cpp,python" />
@@ -63,7 +63,7 @@ I'm a passionate **Software Engineer** specializing in front-end development and
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Rofida_Abdelkader?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" width="500"/>
-</div>
+</div> 
 
 ---
 
