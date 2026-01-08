@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>💻 Software Engineer | 🚀 Problem Solver</h2>
+  <h2>💻 Software Engineer</h2>
 </div>
 
 <!-- <div align="center">
@@ -17,8 +17,8 @@
 I'm a passionate **Software Engineer** specializing in Frontend development and focused in Backend.
 
 - 🎓 **Education**: Graduate from Faculty of Computers & Information, Minia University (2024).
+- 🎓 **Education**: FULL-STACKWEB & GENERATIVE AI DEVELOPMENT USING MEARN (2025 - 2026)
 - 💻 **Focus**: Frontend Development, Backend Development.
-- 🌱 **Currently Learning**: Advanced React patterns, TypeScript, and modern web technologies.
 - 🎯 **Goal**: Building impactful web applications that enhance user experiences.
 - 📫 **Reach me at**: rofidaabdelkader91@gmail.com, rofidaabdelkader132001@gmail.com
 
@@ -58,6 +58,7 @@ I'm a passionate **Software Engineer** specializing in Frontend development and 
 </div>
 
 ---
+<!--
 
 ## 🔥 LeetCode Journey
 
@@ -66,7 +67,6 @@ I'm a passionate **Software Engineer** specializing in Frontend development and 
 </div> 
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -75,18 +75,18 @@ I'm a passionate **Software Engineer** specializing in Frontend development and 
 </div>
 
 ---
-
 ## 🌟 Featured Projects
 
+
 <!-- You can add your best projects here -->
+
 <div align="center">
-  
+ <!-- 
 *🚧 Coming Soon - Showcasing my latest projects*
 
 </div>
 
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rofida-abdelkader&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
@@ -94,3 +94,5 @@ I'm a passionate **Software Engineer** specializing in Frontend development and 
 <div align="center">
   <h3>💭 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
 </div>
+
+-->
